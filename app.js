@@ -43,5 +43,5 @@ app
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
-  console.log(`Server running on http://localhost:${port}`);
+  console.log(`Server running on https://two1bce5004-backend-kqmw.onrender.com:${port}`);
 });
